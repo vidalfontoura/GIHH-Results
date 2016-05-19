@@ -1,0 +1,11 @@
+Host --> loki
+Init Time: Seg Mai 16 18:55:15 BRT 2016
+Instance: +11
+Seed: +6
+log4j:WARN No appenders could be found for logger (be.kuleuven.kahosl.hyperheuristic.GIHHCompleteRun).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ ## GIHH STARTED >> HyperHeuristic PDP instance #11 (RUN = 7) (SEED = 8638)
+-40.0
+ ## GIHH FINISHED
+End Time: Seg Mai 16 19:05:27 BRT 2016 --- run in 0:10:12 ---

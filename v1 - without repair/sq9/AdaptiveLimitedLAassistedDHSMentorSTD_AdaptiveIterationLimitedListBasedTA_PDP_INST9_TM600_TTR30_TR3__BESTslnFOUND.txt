@@ -1,0 +1,2 @@
+BestFitness: -30.0
+[I@33a053d

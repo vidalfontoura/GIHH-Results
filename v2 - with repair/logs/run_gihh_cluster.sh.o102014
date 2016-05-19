@@ -1,0 +1,11 @@
+Host --> hydra
+Init Time: Seg Mai 16 18:44:45 BRT 2016
+Instance: +9
+Seed: +25
+log4j:WARN No appenders could be found for logger (be.kuleuven.kahosl.hyperheuristic.GIHHCompleteRun).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ ## GIHH STARTED >> HyperHeuristic PDP instance #9 (RUN = 26) (SEED = 32084)
+-36.0
+ ## GIHH FINISHED
+End Time: Seg Mai 16 18:54:56 BRT 2016 --- run in 0:10:11 ---

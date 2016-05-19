@@ -1,0 +1,2 @@
+BestFitness: -10.0
+[I@2bbf4b8b
