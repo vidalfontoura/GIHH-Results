@@ -1,6 +1,6 @@
 #/bin/bash
 
-for i in $(seq 1 11)
+for i in $(seq 7 11)
 do
 	for j in $(seq 1 30)
 	do
