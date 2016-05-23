@@ -5,7 +5,7 @@ do
 	for j in $(seq 1 30)
 	do
 	#echo $i $j
-		qsub run_gihh_cluster.sh $i $j
+		qsub run_gihh_cluster.sh $i $j 1800000
 
 	done
 done
