@@ -32,7 +32,7 @@ echo "Instance: "+$1
 echo "Seed: "+$2
 echo "Time: "+$3
 
-java -jar gihh.jar $1 $2 $3
+java -Xmx3000M -Xms3000M -jar gihh.jar $1 $2 $3
 
 
 
