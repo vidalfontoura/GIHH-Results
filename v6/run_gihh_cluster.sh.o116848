@@ -1,0 +1,12 @@
+Host --> pegasus
+Init Time: Seg Mai 30 17:14:08 BRT 2016
+Instance: +10
+Seed: +12
+Time: +1800000
+log4j:WARN No appenders could be found for logger (be.kuleuven.kahosl.hyperheuristic.GIHHCompleteRun).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+ ## GIHH STARTED >> HyperHeuristic PDP instance #10 (RUN = 13) (SEED = 16042)
+-40.0
+ ## GIHH FINISHED
+End Time: Seg Mai 30 17:44:24 BRT 2016 --- run in 0:30:16 ---
